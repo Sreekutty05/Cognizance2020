@@ -1,0 +1,11 @@
+# PSEUDO CODE
+____
+----
+## 1. Read n
+## 2. Initialize sum = 0 and temp = n
+## 3. While n>=0 ,assign sum = sum + (n%10) * (n%10) *(n%10) 
+## 4. now assign n=n/10
+## 5. if sum == temp then print "THE NUMBER IS AN ARMSTRONG NUMBER"
+## 6. if sum is not equal to temp then print "THE NUMBER IS AN ARMSTRONG NUMBER"
+____
+----
